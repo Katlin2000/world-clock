@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #eaf6f6;
   font-family: sans-serif;
 }
 
@@ -62,4 +62,7 @@ footer {
   text-align: center;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.8);
+}
+a {
+  color: #a696c8;
 }
